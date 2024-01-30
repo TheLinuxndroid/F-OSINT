@@ -54,7 +54,7 @@ A Complete Real-Life Osint+Forensic Course Hindi
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0QukU77zTVdsP1BbYY860DWzbsh_d5FbgPctwsRiQbldOpqpd9AWtwFUPebymeP5eSIVT8jo-SmZZAtINYOMt5O3-dbgdODMznsPmwk_GGHMuUEb6zCHrt7m8llyDYWzGUmzubv3tfld153jl9d1b4FiMiI9MtpMevwAZDIFt9uk6WK4auveWcdoWrE2/s16000/syllabus.png" height="300"><br>
 </p>  
 
-## CheckOut Demo [Video](https://linuxndroid.in/product/fosint/)
+## CheckOut Price & Demo [Video](https://linuxndroid.in/product/fosint/)
 
 ## Requirements & Recommendations
 
