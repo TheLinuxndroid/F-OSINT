@@ -56,6 +56,8 @@ A Complete Real-Life Osint+Forensic Course Hindi
 
 ## CheckOut Price & Demo [Video](https://linuxndroid.in/product/fosint/)
 
+## More Free Courses + Sample Videos Ask My [Bot](https://t.me/Linuxndroidbot)
+
 ## Requirements & Recommendations
 
     Windows 10, 11, pro
